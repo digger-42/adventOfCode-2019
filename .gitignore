@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# ceedling infrastructure
+*/build
+temp_sensor/
