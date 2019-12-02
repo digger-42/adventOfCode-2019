@@ -1,0 +1,6 @@
+[submodule "cmock"]
+	path = cmock
+	url = ./cmock
+[submodule "unity"]
+	path = unity
+	url = ./unity
